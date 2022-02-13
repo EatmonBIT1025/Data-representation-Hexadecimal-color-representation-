@@ -4,3 +4,5 @@ In a RGB color space, hex #ab00ff is composed of 67.1% red, 0% green and 100% bl
 
 The hexadecimal color #ab00ff has RGB values of R:171, G:0, B:255 and CMYK values of C:0.33, M:1, Y:0, K:0. Its decimal value is 11206911.
 its binary is 10101011, 00000000,11111111
+
+B. this color could be problematic for someone who is color blind and the interface is using multiple similar colors. The way color blind people see this color should be considered when using with combination of the colors they may be able to see.
